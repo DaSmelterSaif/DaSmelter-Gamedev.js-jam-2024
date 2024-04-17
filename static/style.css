@@ -1,0 +1,14 @@
+:root {
+    --accent: green; /* Temporary */
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    color: white;
+    background: black;
+}
+
+h1, p {
+    text-align: center;
+}
